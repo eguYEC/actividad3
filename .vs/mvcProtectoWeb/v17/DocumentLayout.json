@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dise\u00F1oweb2\\mvcProtectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E2B31C-79BD-4FD1-9885-AC5468BFD22D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\dise\u00F1oweb2\\mvcprotectoweb\\mvcproyectoweb.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E2B31C-79BD-4FD1-9885-AC5468BFD22D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dise\u00F1oweb2\\mvcProtectoWeb\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241216231025_miprimeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mvcProyectoWeb.AccesoDatos\\Migrations\\20241216231025_miprimeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F444AB7A-3D78-4482-97DA-DAD5F218052E}|mvcProtectoWeb\\mvcProtectoWeb.csproj|c:\\dise\u00F1oweb2\\mvcprotectoweb\\mvcprotectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F444AB7A-3D78-4482-97DA-DAD5F218052E}|mvcProtectoWeb\\mvcProtectoWeb.csproj|solutionrelative:mvcprotectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241216231025_miprimeramigracion.cs",
+              "DocumentMoniker": "C:\\dise\u00F1oweb2\\mvcProtectoWeb\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241216231025_miprimeramigracion.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241216231025_miprimeramigracion.cs",
+              "ToolTip": "C:\\dise\u00F1oweb2\\mvcProtectoWeb\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241216231025_miprimeramigracion.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241216231025_miprimeramigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:10:25.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dise\u00F1oweb2\\mvcProtectoWeb\\mvcProtectoWeb\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProtectoWeb\\Program.cs",
+              "ToolTip": "C:\\dise\u00F1oweb2\\mvcProtectoWeb\\mvcProtectoWeb\\Program.cs",
+              "RelativeToolTip": "mvcProtectoWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:06:06.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\dise\u00F1oweb2\\mvcProtectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\dise\u00F1oweb2\\mvcProtectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:05:57.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
